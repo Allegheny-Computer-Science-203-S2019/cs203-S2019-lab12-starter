@@ -20,6 +20,8 @@ PROFESSOR PROBLEMS?
 
 -->
 
+<!-- Note that this is the final assignment for the second long-term software project -->
+
 # cs203-S2019-lab12-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
